@@ -1,5 +1,5 @@
 # Ehsan Taati
-Junior Data Scientist
+### Data Scientist based in Poole, UK
 ## Get in touch
 ## About me
 ## Professional Experience
