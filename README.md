@@ -13,6 +13,8 @@
 - Information Technology Management (MSc)<br>Shahid Beheshti University, Tehran, Iran (Sep 2013 - Jan 2016)<br>Grade: 18.24/20
 - Applied Physics (BSc)<br> Payame-e-Noor University, Isfahan, Iran (Jan 1997 - Apr 2002)<br>
 ### Projects
+#### Professional:
+#### Academic:
 ### Skills
 ### References
 ### Download Resume
