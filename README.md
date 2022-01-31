@@ -26,6 +26,10 @@
 - Fused Deep DTI: Using Model Fusion in Deep Drug Target Interaction Prediction (Thesis)
 - Comparing Object Detection Algorithms Performance in detecting vehicles on motorways 
 - A comparison on Deep-fake Detection algorithms
+
+### Skills
+- Machine Learning: Rgression, Classification and Clustering
+- Deep Learning: Natural Language Processing and Computer Vision mostly in Pytorch
 ### Tools and Technologies
 - **Proficient**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> Python, <img height="18" width="18" src="https://github.com/ehsantaati/resume/blob/gh-pages/imgs/KNIME%20logo.png" /> Knime 
 - **Sufficient**: <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftsqlserver.svg" /> SQL, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neo4j.svg" /> Neo4j, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" /> Docker 
