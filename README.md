@@ -27,9 +27,11 @@
 - Comparing Object Detection Algorithms Performance in detecting vehicles on motorways 
 - A comparison on Deep-fake Detection algorithms
 ### Tools and Technologies
-##### Proficient: Python, Knime
-##### Sufficient: SQL, Neo4j, Docker 
-##### Familiar: R, HTML & CSS,
-- 
+- **Proficient**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> Python, Knime
+- **Sufficient**: SQL, Neo4j, Docker 
+- **Familiar**: R, HTML & CSS,
+
+
+
 ### References
 ### Download Resume
