@@ -16,13 +16,20 @@
 - Applied Physics (BSc)<br> Payame-e-Noor University, Isfahan, Iran (Jan 1997 - Apr 2002)<br>
 ### Projects
 #### Professional:
-- Emotion Detection on Twitter
-- Covid-19 Transmission Network Analysis
+- SEIR model customisation
+- Business workflow automation using web scraping
+- Linking datasets using semantic similarity
 - Air Quality Prediction
+- Covid-19 Transmission Network Analysis
+- Emotion Detection on Twitter
 #### Academic:
 - Fused Deep DTI: Using Model Fusion in Deep Drug Target Interaction Prediction (Thesis)
 - Comparing Object Detection Algorithms Performance in detecting vehicles on motorways 
 - A comparison on Deep-fake Detection algorithms
-### Skills
+### Tools and Technologies
+##### Proficient: Python, Knime
+##### Sufficient: SQL, Neo4j, Docker 
+##### Familiar: R, HTML & CSS,
+- 
 ### References
 ### Download Resume
