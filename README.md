@@ -27,11 +27,9 @@
 - Comparing Object Detection Algorithms Performance in detecting vehicles on motorways 
 - A comparison on Deep-fake Detection algorithms
 ### Tools and Technologies
-- **Proficient**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> Python, Knime
-- **Sufficient**: SQL, Neo4j, Docker 
-- **Familiar**: R, HTML & CSS,
-
-
+- **Proficient**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> Python, <img height="18" width="18" src="https://github.com/ehsantaati/resume/blob/gh-pages/imgs/KNIME%20logo.png" /> Knime 
+- **Sufficient**: <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftsqlserver.svg" /> SQL, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neo4j.svg" /> Neo4j, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" /> Docker 
+- **Familiar**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/r.svg" /> R, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" /> Tableau
 
 ### References
 ### Download Resume
