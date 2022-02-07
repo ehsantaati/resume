@@ -25,16 +25,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Comparing Object Detection Algorithms Performance in detecting vehicles on motorways<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A comparison on Deep-fake Detection algorithms<br>
 
-### Skills
+### <img height="35" width="35" src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-skills-management-kiranshastry-lineal-kiranshastry-5.png"/> Skills
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Machine Learning: Rgression, Classification and Clustering<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Deep Learning: Natural Language Processing and Computer Vision mostly in Pytorch<br>
-### Tools and Technologies
+### <img height="35" width="35" src="https://img.icons8.com/external-becris-lineal-becris/64/000000/external-tools-business-management-becris-lineal-becris.png"/>Tools and Technologies
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Proficient**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> Python, <img height="18" width="18" src="https://github.com/ehsantaati/resume/blob/gh-pages/imgs/KNIME%20logo.png" /> Knime<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Sufficient**: <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftsqlserver.svg" /> SQL Server, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neo4j.svg" /> Neo4j, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" /> Docker <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Familiar**: <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/r.svg" /> R, <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" /> Tableau<br>
 
 
-### References
+### <img height="35" width="35" src="https://img.icons8.com/external-others-made-by-made/50/000000/external-athletic-rugby-others-made-by-made-19.png"/> References
 ### Download Resume
 
 
