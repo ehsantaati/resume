@@ -1,18 +1,18 @@
 # Ehsan Taati
 ##### **Data Scientist based in Poole, UK**
 ----
-### Get in touch
-[![email](https://img.shields.io/badge/eh.taati-0A66C2?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:eh.taati@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-squaree&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsantaati/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
+### <img height="35" width="35" src="https://img.icons8.com/dotty/80/000000/call-male.png"/> Get in touch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/eh.taati-0A66C2?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:eh.taati@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-squaree&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsantaati/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
 ### About me
-### Professional Experience
-- **Public Health Data Scientist**<br>Dorset Council, Dorchester, UK (Sep 2022 - present)
-- Management Information System Assistant<br>Dorset Council, Dorchester, UK (Jun 2020 - Sep 2022)
-- Business Analyst <br>TSPP, Tehran, Iran (Oct 2014 - Sep 2019)
+### <img height="35" width="35" src="https://img.icons8.com/wired/64/000000/job.png"/> Professional Experience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Public Health Data Scientist**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.publichealthdorset.org.uk/public-health-dorset">Public Health Dorset</a>, Dorset Council, Dorchester, UK (Sep 2022-present)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Management Information System Assistant<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.publichealthdorset.org.uk/public-health-dorset">Public Health Dorset</a> Dorset Council, Dorchester, UK (Jun 2020 - Sep 2022)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Credit Card Business Analyst<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TSPP, Tehran, Iran (Oct 2014 - Sep 2019)
 
 
-### Academic Qualifictions
-- **Data Science and Artificial Intelligence (MSc)**<br><img height="20" width="20" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/bournemouthuniversitylogo.png" /> Bournemouth University, Bournemouth, UK (Sep 2019, Oct 2022)<br>Grade: Distinction
-- Information Technology Management (MSc)<br> <img height="20" width="20" src="https://github.com/ehsantaati/resume/blob/gh-pages/imgs/Sbu-logo.svg.png" /> Shahid Beheshti University, Tehran, Iran (Sep 2013 - Jan 2016)<br>Grade: 18.24/20
+### <img height="35" width="35" src="https://img.icons8.com/dotty/80/000000/flying-motarboard.png"/> Academic Qualifictions
+- **Data Science and Artificial Intelligence (MSc)**<br><img height="20" width="20" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/bournemouthuniversitylogo.png" /><a href="https://www.bournemouth.ac.uk/"> Bournemouth University</a>, Bournemouth, UK (Sep 2019, Oct 2022)<br>Grade: Distinction
+- Information Technology Management (MSc)<br> <img height="20" width="20" src="https://github.com/ehsantaati/resume/blob/gh-pages/imgs/Sbu-logo.svg.png" /><a href="http://en.sbu.ac.ir/SitePages/Home.aspx"> Shahid Beheshti University </a>, Tehran, Iran (Sep 2013 - Jan 2016)<br>Grade: 18.24/20
 - Applied Physics (BSc)<br> Payame-e-Noor University, Isfahan, Iran (Jan 1997 - Apr 2002)<br>
 ### Projects
 #### Professional:
@@ -38,3 +38,5 @@
 
 ### References
 ### Download Resume
+
+
