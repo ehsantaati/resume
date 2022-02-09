@@ -19,10 +19,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Linking datasets using semantic similarity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Air Quality Prediction<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Covid-19 Transmission Network Analysis<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Emotion Detection on Twitter<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Emotion Detection on Twitter](https://github.com/ehsantaati/ED_Twitter)<br>
 ### <img height="35" width="35" src="https://img.icons8.com/dotty/80/000000/project.png"/> Academic Projects:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fused Deep DTI: Using Model Fusion in Deep Drug Target Interaction Prediction (Thesis)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Comparing Object Detection Algorithms Performance in detecting vehicles on motorways<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Comparing Object Detection Algorithms Performance in detecting vehicles on motorways](https://github.com/ehsantaati/ObjectDetection_Compare_BU)<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- A comparison on Deep-fake Detection algorithms<br>
 
 ### <img height="35" width="35" src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-skills-management-kiranshastry-lineal-kiranshastry-5.png"/> Skills
