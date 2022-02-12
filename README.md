@@ -3,7 +3,7 @@
 ----
 ### <img height="35" width="35" src="https://img.icons8.com/dotty/80/000000/call-male.png"/> Get in touch
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/eh.taati-0A66C2?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:eh.taati@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-squaree&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsantaati/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
-### About me
+
 ### <img height="35" width="35" src="https://img.icons8.com/wired/64/000000/job.png"/> Professional Experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Public Health Data Scientist**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.publichealthdorset.org.uk/public-health-dorset">Public Health Dorset</a>, Dorset Council, Dorchester, UK<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2022 - Present<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Management Information System Assistant<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.publichealthdorset.org.uk/public-health-dorset">Public Health Dorset</a> Dorset Council, Dorchester, UK<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2020 - Sep 2022<br>
