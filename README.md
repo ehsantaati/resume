@@ -29,9 +29,9 @@
 ### <img height="35" width="35" src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-skills-management-kiranshastry-lineal-kiranshastry-5.png"/> Skills
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Machine Learning:** Rgression, Classification and Clustering<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Deep Learning:** Natural Language Processing and Computer Vision mostly in Pytorch<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Data Flow AUtomation**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Data Extraction**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Graph Analysis**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Data Flow AUtomation**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Data Extraction**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Graph Analysis**<br>
 ### <img height="35" width="35" src="https://img.icons8.com/external-becris-lineal-becris/64/000000/external-tools-business-management-becris-lineal-becris.png"/> Tools and Technologies
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Proficient**: Python, Knime<br>
